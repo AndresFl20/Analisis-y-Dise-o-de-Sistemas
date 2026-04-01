@@ -1,1 +1,1 @@
-# Analisis-y-Dise-o-de-Sistemas
+# Analisis-y-Diseno-de-Sistemas
